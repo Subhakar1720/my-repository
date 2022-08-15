@@ -1,0 +1,5 @@
+this is to find out git merge>>develop.txt
+echo this is to find out git merge>>develop.txt
+echo this is to find out git merge
+this is to find out git merge
+this is to find merge
